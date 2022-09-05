@@ -11,4 +11,4 @@ very customizable and swift os
 ![Screenshot from 2022-09-05 19-18-51](https://user-images.githubusercontent.com/68397736/188459593-d9a8b61e-4470-4481-9171-e8338ae7af49.png)
 ![Screenshot from 2022-09-05 19-19-12](https://user-images.githubusercontent.com/68397736/188459599-bff07029-887d-416e-a5e8-9162d44b1689.png)
 comes with xanmod kernel 
-https://xanmod.org/index_files/xanmod_wallpaper.png
+![image](https://user-images.githubusercontent.com/68397736/188461710-da892bb1-4242-4707-802e-be73d1d5715c.png)
