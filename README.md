@@ -1,5 +1,4 @@
 # BINARY-OS
-theme:Modernist
  modern gaming operating system 
  ![BINARY-OS-wallpaper](https://user-images.githubusercontent.com/68397736/188459363-ab448015-1703-4dce-b70d-a4a026ec1106.png)
 ![BINARY-OS-wallpaper2](https://user-images.githubusercontent.com/68397736/188459378-bf3cc6da-a65f-4d39-b20a-64a892d432aa.png)
